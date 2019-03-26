@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 简介须知
 permalink: /about/
 ---
 <p>本网站是作者的私人博客，通过Jekyll和Github Pages提供的服务实现和发布。</p>
